@@ -8,17 +8,38 @@ body {
   width: 90%;
 }
 
+.baku, div {
+  background-image: url(images/baku.jpg);
+}
+
+
 img, .baku, .london, .madrid, .rome {
-  height: 50%;
-  width: 50%;
+  height: 100%;
+  width: 100%;
   background-color: #dadada;
-    float: left;
+    float: center;
     margin: 1% 0;
     width: 100%;
     padding: 20px 25px;
   }
 
+h1, h3 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
 @media screen and (min-width: 575px){
    .baku, .london, .madrid, .rome {
     margin: 1%;
-    width: 48%;
+    width: 25%;
+}
+
+@media screen and (min-width: 991px){
+   .baku, .london, .madrid, .rome {
+    margin: 1%;
+    width: 50%;
