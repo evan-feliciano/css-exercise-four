@@ -2,3 +2,23 @@ body {
   background-color: #dadada;
   font-size: 10px;
 }
+
+.container {
+  margin: 20px auto;
+  width: 90%;
+}
+
+img, .baku, .london, .madrid, .rome {
+  height: 50%;
+  width: 50%;
+  background-color: #dadada;
+    float: left;
+    margin: 1% 0;
+    width: 100%;
+    padding: 20px 25px;
+  }
+
+@media screen and (min-width: 575px){
+   .baku, .london, .madrid, .rome {
+    margin: 1%;
+    width: 48%;
