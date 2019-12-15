@@ -53,7 +53,7 @@ body {
 
   .container, .wrapper{
     flex-direction: column;
-    width: 40%
+    width: 200%
   }
 }
 
@@ -62,6 +62,6 @@ body {
 
   .container{
     flex-direction: column;
-    width: 80%
+    width: 400%
   }
 }
