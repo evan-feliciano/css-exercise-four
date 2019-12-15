@@ -14,45 +14,29 @@ body {
   font-family: serif;
 }
 
-.baku {
-  background-image: url(../images/baku.jpg);
+.preview {
   background-size: 100%;
   background-repeat: no-repeat;
   height: 275px;
   width: 100%;
   margin-top: 5px;
   font-size: 2em
+}
+
+.baku {
+  background-image: url(../images/baku.jpg);
 }
 
 .london {
   background-image: url(../images/london.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 275px;
-  width: 100%;
-  margin-top: 5px;
-  font-size: 2em
-
 }
 
 .madrid {
   background-image: url(../images/madrid.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 275px;
-  width: 100%;
-  margin-top: 5px;
-  font-size: 2em
 }
 
 .rome {
   background-image: url(../images/rome.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 275px;
-  width: 100%;
-  margin-top: 5px;
-  font-size: 2em
 }
 
 .container{
