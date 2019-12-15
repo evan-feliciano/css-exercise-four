@@ -1,19 +1,9 @@
-body {
-  background-color: #dadada;
-  font-size: 10px;
-}
-
-.container {
-  margin: 50px;
-  width: 90%;
-}
-
 .baku {
   background-image: url(../images/baku.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 400px;
-  width: 400px;
+  height: 275px;
+  width: 275px;
   margin-top: 5px;
   font-size: 2em
 }
@@ -22,8 +12,8 @@ body {
   background-image: url(../images/london.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 400px;
-  width: 400px;
+  height: 275px;
+  width: 275px;
   margin-top: 5px;
   font-size: 2em
 
@@ -33,8 +23,8 @@ body {
   background-image: url(../images/madrid.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 400px;
-  width: 400px;
+  height: 275px;
+  width: 275px;
   margin-top: 5px;
   font-size: 2em
 }
@@ -43,8 +33,8 @@ body {
   background-image: url(../images/rome.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 400px;
-  width: 400px;
+  height: 275px;
+  width: 275px;
   margin-top: 5px;
   font-size: 2em
 }
