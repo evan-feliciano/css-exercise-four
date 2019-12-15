@@ -8,28 +8,34 @@ body {
   width: 90%;
 }
 
-.baku, div {
+.baku {
   background-image: url(../images/baku.jpg);
-  height: 100px;
-  width: 100px;
+  height: 400px;
+  width: 400px;
   margin-top: 10px;
   font-size: 1.5em
 }
 
-.london, div {
+.london {
   background-image: url(../images/london.png);
-  height: 100px;
-  width: 100px;
+  height: 400px;
+  width: 400px;
+  margin-top: 10px;
+  font-size: 1.5em
 }
 
-.madrid, div {
+.madrid {
   background-image: url(../images/madrid.jpg);
-  height: 100px;
-  width: 100px;
+  height: 400px;
+  width: 400px;
+  margin-top: 10px;
+  font-size: 1.5em
 }
 
-.rome, div {
+.rome {
   background-image: url(../images/rome.jpg);
-  height: 100px;
-  width: 100px;
+  height: 400px;
+  width: 400px;
+  margin-top: 10px;
+  font-size: 1.5em
 }
