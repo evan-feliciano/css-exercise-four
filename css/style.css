@@ -40,12 +40,12 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-  .preview, .wrapper{
+  .preview{
     width: 200%
   }
 }
 
-@media screen and (min-width: 1080px)
+@media screen and (min-width: 1080px){
   .preview{
     width: 400%
   }
