@@ -39,16 +39,14 @@ body {
   background-image: url(../images/rome.jpg);
 }
 
-@media screen and (min-width: 575px) {
+@media screen and (min-width: 768px) {
   .preview, .wrapper{
-    flex-direction: column;
     width: 200%
   }
 }
 
-@media screen and (min-width: 991px)
+@media screen and (min-width: 1080px)
   .preview{
-    flex-direction: column;
     width: 400%
   }
 }
