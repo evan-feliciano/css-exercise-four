@@ -19,7 +19,7 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
   height: 275px;
-  width: 300%;
+  width: 100%;
   margin-top: 5px;
   font-size: 2em
 }
@@ -29,7 +29,7 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
   height: 275px;
-  width: 300%;
+  width: 100%;
   margin-top: 5px;
   font-size: 2em
 
@@ -40,7 +40,7 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
   height: 275px;
-  width: 300%;
+  width: 100%;
   margin-top: 5px;
   font-size: 2em
 }
@@ -50,7 +50,7 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
   height: 275px;
-  width: 300%;
+  width: 100%;
   margin-top: 5px;
   font-size: 2em
 }
@@ -69,8 +69,7 @@ body {
 
   .container, .wrapper{
     flex-direction: column;
-    height: 275px;
-    width: 100%
+    width: 40%
   }
 }
 
@@ -79,7 +78,6 @@ body {
 
   .container{
     flex-direction: column;
-    height: 275px;
-    width: 100%
+    width: 80%
   }
 }
