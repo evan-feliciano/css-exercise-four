@@ -4,38 +4,47 @@ body {
 }
 
 .container {
-  margin: 20px auto;
+  margin: 50px;
   width: 90%;
 }
 
 .baku {
   background-image: url(../images/baku.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
   height: 400px;
   width: 400px;
-  margin-top: 10px;
-  font-size: 1.5em
+  margin-top: 5px;
+  font-size: 2em
 }
 
 .london {
   background-image: url(../images/london.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
   height: 400px;
   width: 400px;
-  margin-top: 10px;
-  font-size: 1.5em
+  margin-top: 5px;
+  font-size: 2em
+
 }
 
 .madrid {
   background-image: url(../images/madrid.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
   height: 400px;
   width: 400px;
-  margin-top: 10px;
-  font-size: 1.5em
+  margin-top: 5px;
+  font-size: 2em
 }
 
 .rome {
   background-image: url(../images/rome.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
   height: 400px;
   width: 400px;
-  margin-top: 10px;
-  font-size: 1.5em
+  margin-top: 5px;
+  font-size: 2em
 }
