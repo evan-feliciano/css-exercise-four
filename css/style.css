@@ -49,18 +49,15 @@ body {
   display: flex;
 }
 
-@media screen and (max-width: 768px) {
-
-  .container, .wrapper{
+@media screen and (min-width: 575px) {
+  .preview, .wrapper{
     flex-direction: column;
     width: 200%
   }
 }
 
-@media screen and (min-width: 768px)
-    and (max-width: 1080px){
-
-  .container{
+@media screen and (min-width: 991px)
+  .preview{
     flex-direction: column;
     width: 400%
   }
