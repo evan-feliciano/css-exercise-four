@@ -6,6 +6,7 @@ body {
 .container {
   margin: 1%;
   width: 90%;
+  flex-direction: column;
 }
 
 .emphasis {
