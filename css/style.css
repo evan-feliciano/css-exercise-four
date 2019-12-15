@@ -39,16 +39,6 @@ body {
   background-image: url(../images/rome.jpg);
 }
 
-.container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.wrapper{
-  display: flex;
-}
-
 @media screen and (min-width: 575px) {
   .preview, .wrapper{
     flex-direction: column;
