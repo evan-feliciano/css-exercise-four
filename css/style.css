@@ -15,11 +15,12 @@ body {
 }
 
 .preview {
-  background-size: 100%;
+  align-self: center;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 275px;
   width: 100%;
-  margin-top: 5px;
+  margin-top: 10px;
   font-size: 2em
 }
 
@@ -41,12 +42,14 @@ body {
 
 @media screen and (min-width: 768px) {
   .preview{
-    width: 200%
+    margin: 1%;
+    width: 50%
   }
 }
 
 @media screen and (min-width: 1080px){
   .preview{
-    width: 400%
+    margin: 1%;
+    width: 25%
   }
 }
